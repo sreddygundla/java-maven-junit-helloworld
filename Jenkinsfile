@@ -1,3 +1,3 @@
-final sampath-library = library('sampath-library@master')
+final sampathlib = library('sampathlib@master')
 
 javaBuild([:])
